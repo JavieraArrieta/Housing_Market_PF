@@ -46,11 +46,12 @@ En este proyecto haremos un estudio del mercado de viviendas de los Estados Unid
 
 ## Análisis exploratorio y proceso de ETL
 
-link de la carpeta.
+ [Aqui podemos encontrar los Jupyter Notebooks de todos los análisis organizados por KPI](https://github.com/JavieraArrieta/Housing_Market_PF/tree/main/EDA_ETL)
 
-[Documentación](https://docs.google.com/document/d/1k6_ju5h5JnX9tpsCHpDMFRyVfoBeusBb-SSGBPxcrdI/edit)
+[Aqui esta la documentación detallada de todo el proceso](https://docs.google.com/document/d/1k6_ju5h5JnX9tpsCHpDMFRyVfoBeusBb-SSGBPxcrdI/edit)
 
 
 ## Presentaciones
 
-[Semana 1]()
+[Semana 1](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Presentaci%C3%B3n1.pdf) <br>
+[Semana 2]()
