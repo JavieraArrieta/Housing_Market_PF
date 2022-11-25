@@ -151,7 +151,7 @@ KPI= % de estados con menor variación negativa
 ## Modelo Relacional
 
 <p align="center">
-<img src="image\Modelo Relacional.jpeg">
+<img src="image\ModeloRelacional.jpeg">
 
 [Documentacion DW](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Documentaci%C3%B3nDataWareHouse.pdf)
 
