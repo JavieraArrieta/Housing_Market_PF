@@ -141,7 +141,7 @@ KPI= % de estados con menor variación negativa
 <p align="center">
 <img src="image\etl.PNG">
 
-→ [Aqui](https://docs.google.com/document/d/1k6_ju5h5JnX9tpsCHpDMFRyVfoBeusBb-SSGBPxcrdI/edit) esta la documentación detallada de todo el proceso.
+→ [Aqui](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Normalizaci%C3%B3n%2C%20transformaci%C3%B3n%20y%20limpieza%20de%20datos.pdf) esta la documentación detallada de todo el proceso.
 
 ## Diccionario de Datos
 
