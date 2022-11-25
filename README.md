@@ -23,7 +23,7 @@ En este proyecto haremos un estudio del mercado de viviendas de los Estados Unid
 
 </br>
 
-## Definimos los siguientes KPI's:
+## Indicadores de gestion por Estado:
 
 * **Precio-Alquiler**:<br>
  Indicador de relación en tiempo desde la adquisición del inmueble hasta el punto de equilibrio:   
