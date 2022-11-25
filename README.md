@@ -28,7 +28,7 @@ En este proyecto haremos un estudio del mercado de viviendas de los Estados Unid
 * **Precio-Alquiler**:<br>
  Indicador de relación en tiempo desde la adquisición del inmueble hasta el punto de equilibrio:   
     * Menor tiempo más viable.
-<br>
+ <br>
 
 **Elaboracion:**
 1. Se va a realizar el análisis del tiempo promedio del país (Estados Unidos) en el que una vivienda recupera su inversión de adquisición a través de su renta o alquiler.
@@ -68,7 +68,7 @@ KPI= % de estados por clasificación y su distribución correspondiente con kPI 
 
 * **Días Venta-Precio**:<br>
  Indicador que mide el comportamiento del tiempo de venta de un inmueble respecto al precio de los mismos.
-<br>
+ <br>
 
 **Elaboracion:**
 1. Se va a realizar un promedio general a nivel país por estado
