@@ -22,7 +22,7 @@ c29, c30, c31 = st.columns([1, 6, 1]) # 3 columnas: 10%, 60%, 10%
 # ===================================================================================================
 
 st.subheader('Datos a usar')
-datos = pd.read_csv('Housing_macroeconomic_factors_EDA.csv')
+datos = pd.read_csv('ML_Streamlit/Housing_macroeconomic_factors_EDA.csv')
 st.dataframe(datos.tail())
 
 # modelo
