@@ -17,7 +17,7 @@ st.set_page_config(page_icon="🏠:house_with_garden::house_with_garden:",
                 page_title="House Market Consulting", layout="wide")
 
 # Cargando para guardar el modelo.
-loaded_model =pickle.load(open('ML_Stream/Trained_Model.sav','rb'))
+loaded_model =pickle.load(open('ML_Streamlit/Trained_Model.sav','rb'))
 
 # Creamos una funcion para la prediccion
 def prediccion_precio(input_data):
