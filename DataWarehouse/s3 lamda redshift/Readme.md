@@ -5,7 +5,7 @@
 3.  Se conecta a Redshift.
 4.  Crear las tablas en una base de datos.
 5.  Crear su función Lambda.
-6.  Alguien carga datos en S3.
+6.  La función carga los datos de S3 a Redshift.
 7.  Consulta tus datos.
 
 
