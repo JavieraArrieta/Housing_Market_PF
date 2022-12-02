@@ -2,7 +2,7 @@
 #### Pasos:
 1.  Se crea un depósito S3.
 2.  Se Crea un clúster Redshift.
-3.  Se Conectarse a Redshift.
+3.  Se conecta a Redshift.
 4.  Crear las tablas en una base de datos.
 5.  Crear su función Lambda.
 6.  Alguien carga datos en S3.
