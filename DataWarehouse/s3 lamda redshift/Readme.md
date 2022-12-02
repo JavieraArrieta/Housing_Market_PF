@@ -1,4 +1,4 @@
-﻿# # Pipeline ETL para cargar datos de forma incremental desde Amazon S3 a Amazon Redshift mediante una función Lambda.
+# Pipeline ETL para cargar datos de forma incremental desde Amazon S3 a Amazon Redshift mediante una función Lambda.
 #### Pasos:
 1.  Se crea un depósito S3.
 2.  Se Crea un clúster Redshift.
@@ -25,7 +25,7 @@ La función Lambda necesitará algunas bibliotecas de Python como Sqalchemy y Ps
 Para configurar la función Lambda en AWS, que es una secuencia de comandos de Python, sedebe configurar los siguientes recursos:
 
 1.  Cargar la funcón lambda.zip `funcion_lamda.py`.
-2.  Adjunte un rol de IAM a la función Lambda, que otorga acceso a`AWSLambdaVPCAccesExcecutionRole`
+2.  Insertar un rol de IAM a la función Lambda, que otorga acceso a`AWSLambdaVPCAccesExcecutionRole`
 3.  Se debe agregar VPC por defecto en la función Lambda.
 
 
