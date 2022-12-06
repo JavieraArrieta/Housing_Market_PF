@@ -1,0 +1,5 @@
+    host='primer-redshift.cayumx8bbo8y.us-west-2.redshift.amazonaws.com',
+    database='markethousing',
+    user='awsuser',
+    port='5439'
+    password=''
