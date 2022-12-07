@@ -160,7 +160,7 @@ KPI= % de estados con menor variación negativa
 ## Predicciones del modelo
 [Pagina Web: Modelo ML](https://javieraarrieta-housi-ml-streamlitmodelomacroinmobiliario-7o1yd9.streamlit.app/)
 
-[Dashboard KPI Estados](falta)
+[Dashboard KPI Estados](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Dashboard%20KPIs.pbix)
 
 ## AWS Redshift
 [Pipeline ETL para cargar datos de forma incremental desde Amazon S3 a Amazon Redshift mediante una función Lambda.](https://github.com/JavieraArrieta/Housing_Market_PF/tree/main/DataWarehouse/s3%20lamda%20redshift)
@@ -179,5 +179,5 @@ Data Engineer: ETL completo y su automatización. Construcción DW y creación d
 Data Analytics/Data Science: Inclusión KPI´s en visualización (Dashboard) Modelo ML y su evaluación. Estructuración, presentación y
 análisis para la propuesta de inversión.  → [Semana 3](Falta)
 
-Presentacion Final  → [Semana 4](Falta)
+Presentacion Final  → [Semana 4](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Presentaci%C3%B3n%20Final.pdf)
 
