@@ -19,7 +19,7 @@ En este proyecto haremos un estudio del mercado de viviendas de los Estados Unid
 ## Diagrama de GANTT
 
 <p align="center">
-<img src="image\gantt.PNG">
+<img src="image\Calendario.PNG">
 
 </br>
 
@@ -157,9 +157,27 @@ KPI= % de estados con menor variación negativa
 
 [Archivos usados para el DW](https://github.com/JavieraArrieta/Housing_Market_PF/tree/main/DataWarehouse)
 
+## Predicciones del modelo
+[Pagina Web: Modelo ML](https://javieraarrieta-housi-ml-streamlitmodelomacroinmobiliario-7o1yd9.streamlit.app/)
+
+[Dashboard KPI Estados](falta)
+
+## AWS Redshift
+[Pipeline ETL para cargar datos de forma incremental desde Amazon S3 a Amazon Redshift mediante una función Lambda.](https://github.com/JavieraArrieta/Housing_Market_PF/tree/main/DataWarehouse/s3%20lamda%20redshift)
+
+<p align="center">
+<img src="DataWarehouse\s3 lamda redshift\etl2.png">
+
+
 ## Presentaciones
 
 KPI's y Definiciones: Trazamos objetivos y determinamos a través de la información la calidad del dato. → [Semana 1](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Presentaci%C3%B3n1.pdf) <br>
 
 
 Data Engineer: ETL completo y su automatización. Construcción DW y creación del modelo relacional. Documentación. → [Semana 2](https://github.com/JavieraArrieta/Housing_Market_PF/blob/main/Presentaciones%20y%20Documentacion/Presentaci%C3%B3n%202.pdf)
+
+Data Analytics/Data Science: Inclusión KPI´s en visualización (Dashboard) Modelo ML y su evaluación. Estructuración, presentación y
+análisis para la propuesta de inversión.  → [Semana 3](Falta)
+
+Presentacion Final  → [Semana 4](Falta)
+
